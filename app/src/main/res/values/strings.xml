@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name" translatable="false">Wheather</string>
-    <string name="stringname">Wheather</string>
+    <string name="label">Wheather</string>
 </resources>
