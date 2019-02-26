@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">Wheather</string>
+    <string name="app_name" translatable="false">Wheather</string>
+    <string name="stringname">Wheather</string>
 </resources>
