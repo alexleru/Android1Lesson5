@@ -7,5 +7,5 @@
     android:paddingEnd="@dimen/start_text_after_image"
     android:drawableStart="@drawable/cloudyweather"
     android:drawablePadding="@dimen/start_text_after_image"
-    android:text="@string/label">
+    android:text="@string/loading_data">
 </TextView>
