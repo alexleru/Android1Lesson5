@@ -2,4 +2,10 @@
 <resources>
     <string name="label">Погода</string>
     <string name="loading_data">Данные загружаются</string>
+    <string name="btn_search">Найти</string>
+    <string name="show_wind">показать данные о ветре</string>
+    <string name="show_humidity">показать данные о влажности</string>
+    <string name="show_pressure">показать данные о давлении</string>
+    <string name="false_off">false</string>
+    <string name="true_on">true</string>
 </resources>
