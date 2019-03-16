@@ -1,4 +1,4 @@
-package ru.alexey.wheather;
+package ru.alexey.weather;
 
 import org.junit.Test;
 
